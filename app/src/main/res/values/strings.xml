@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_textview</string>
+    <string name="content_description_end_icon">Label</string>
+</resources>
